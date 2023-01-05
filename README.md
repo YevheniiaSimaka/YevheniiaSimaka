@@ -1,4 +1,4 @@
-### Hi there! - [Web Designer][website]
+### Hi there!
 
 ## I am Jane and I want to be a Web Disigner!
 - 💙💛 I am from Ukraine
