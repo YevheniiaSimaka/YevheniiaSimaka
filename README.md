@@ -2,7 +2,7 @@
 
 ## I am Jane and I want to be a Web Disigner!
 - 💙💛 I am from Ukraine
-- 🤓I am currently learning everything
+- 🤓I am currently learning programming
 - 💻 I want to became Front-End Web Designer
 - 💁‍♀️I speak Ukrainian, Russian and English
 - ✨2023 Goals: Learn Bootstrap and jQuery 
