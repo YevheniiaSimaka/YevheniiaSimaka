@@ -7,4 +7,6 @@
 - 💁‍♀️I speak Ukrainian, Russian and English
 - ✨2023 Goals: Learn Bootstrap and jQuery 
 
-<img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png"/>
+## Languages and Tools
+
+<img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c"/>
