@@ -9,4 +9,4 @@
 
 ## Languages and Tools
 
-<img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c"/>
+[<img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c"/>]
