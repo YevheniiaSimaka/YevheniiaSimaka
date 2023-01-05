@@ -9,4 +9,4 @@
 
 ## Languages and Tools
 
-[<img src="https://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c"/>]
+![html](https://user-images.githubusercontent.com/112284703/210679388-55fa1625-2445-4515-b48c-3f225cd7af68.png)
