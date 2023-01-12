@@ -7,6 +7,9 @@
 - 💁‍♀️I speak Ukrainian, Russian and English
 - ✨2023 Goals: Learn Bootstrap and jQuery 
 
+## More about me
+I am currently attending 9th grade in Real Salt Lake Academy High School.
+
 ## Languages and Tools
 
 ![html](https://user-images.githubusercontent.com/112284703/210681260-7a135a56-e884-4ca2-af72-6276a6031cf2.png)&nbsp;&nbsp;
