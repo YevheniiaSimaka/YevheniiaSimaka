@@ -18,6 +18,7 @@ I am currently attending 9th grade in Real Salt Lake Academy High School.
 ![vs (1)](https://user-images.githubusercontent.com/112284703/210684060-5d3e1a82-a64a-4994-9871-42dca9f697d9.png)&nbsp;&nbsp;
 ![sass](https://user-images.githubusercontent.com/112284703/210684185-b57cf345-dd89-439d-97b3-1ee3d1ef3724.png)&nbsp;&nbsp;
 ![git2](https://user-images.githubusercontent.com/112284703/210684519-a12ef6d1-ae2a-4028-9ef9-fbf20527e791.png)
+![jlogo](https://user-images.githubusercontent.com/112284703/213077158-965cd36c-10f7-4764-82e0-636510e9d029.png)
 
 
 
